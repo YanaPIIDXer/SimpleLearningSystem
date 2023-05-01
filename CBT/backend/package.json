@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^4.13.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "ims-lti": "^3.0.2",
-    "sequelize": "^6.31.0",
     "sqlite3": "^5.1.6"
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
     "@types/node": "^18.16.2",
     "@types/sequelize": "^4.28.15",
     "nodemon": "^2.0.22",
-    "sequelize-cli": "^6.6.0",
+    "prisma": "^4.13.0",
     "typescript": "^5.0.4"
   }
 }
